@@ -104,4 +104,5 @@ button {
     width: 429px;
     margin-top: 32px;
     border: 0;
+    cursor: pointer;
 }
